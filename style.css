@@ -1,0 +1,12 @@
+.container{
+    width:100%;
+    border: 5px solid black;
+    margin-left:10%;
+    padding:5%;
+background-color:burlywood;
+}
+h1{
+    background-color:darkkhaki;
+    display: inline;
+    text-align: center;
+}
